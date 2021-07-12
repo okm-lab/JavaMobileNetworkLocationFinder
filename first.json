@@ -1,0 +1,1071 @@
+[
+	{
+		"timestamp": 1611742509.835092,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 145
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 156
+			},
+			{
+				"lac": 45005,
+				"cellid": 10795,
+				"power": 155
+			},
+			{
+				"lac": 45006,
+				"cellid": 591,
+				"power": 163
+			}
+		]
+	},
+	{
+		"timestamp": 1611742664.630064,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 146
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 10795,
+				"power": 156
+			}
+		]
+	},
+	{
+		"timestamp": 1611742815.312158,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 145
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 155
+			},
+			{
+				"lac": 45005,
+				"cellid": 3803,
+				"power": 164
+			}
+		]
+	},
+	{
+		"timestamp": 1611742977.880169,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 146
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 158
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 153
+			},
+			{
+				"lac": 45005,
+				"cellid": 3803,
+				"power": 164
+			}
+		]
+	},
+	{
+		"timestamp": 1611743133.553128,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 145
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 159
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 152
+			},
+			{
+				"lac": 45006,
+				"cellid": 591,
+				"power": 163
+			},
+			{
+				"lac": 45005,
+				"cellid": 10795,
+				"power": 154
+			}
+		]
+	},
+	{
+		"timestamp": 1611743298.108125,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 149
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 152
+			},
+			{
+				"lac": 45005,
+				"cellid": 10795,
+				"power": 153
+			},
+			{
+				"lac": 45005,
+				"cellid": 2245,
+				"power": 155
+			}
+		]
+	},
+	{
+		"timestamp": 1611743456.837592,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 148
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 158
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 160
+			},
+			{
+				"lac": 45005,
+				"cellid": 2245,
+				"power": 158
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 158
+			},
+			{
+				"lac": 45006,
+				"cellid": 591,
+				"power": 162
+			}
+		]
+	},
+	{
+		"timestamp": 1611743608.555639,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 147
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 160
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 152
+			},
+			{
+				"lac": 45005,
+				"cellid": 2245,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 153
+			},
+			{
+				"lac": 45006,
+				"cellid": 591,
+				"power": 164
+			}
+		]
+	},
+	{
+		"timestamp": 1611743766.883604,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 146
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 155
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 154
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 159
+			},
+			{
+				"lac": 45005,
+				"cellid": 2245,
+				"power": 157
+			}
+		]
+	},
+	{
+		"timestamp": 1611743921.018267,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 147
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 158
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 155
+			},
+			{
+				"lac": 45005,
+				"cellid": 2245,
+				"power": 155
+			},
+			{
+				"lac": 45006,
+				"cellid": 591,
+				"power": 163
+			},
+			{
+				"lac": 45005,
+				"cellid": 3803,
+				"power": 163
+			}
+		]
+	},
+	{
+		"timestamp": 1611744075.401731,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 147
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 159
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 3803,
+				"power": 164
+			},
+			{
+				"lac": 45006,
+				"cellid": 591,
+				"power": 164
+			}
+		]
+	},
+	{
+		"timestamp": 1611744233.995556,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 147
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 156
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 155
+			},
+			{
+				"lac": 45005,
+				"cellid": 3803,
+				"power": 163
+			},
+			{
+				"lac": 45006,
+				"cellid": 591,
+				"power": 162
+			}
+		]
+	},
+	{
+		"timestamp": 1611744385.037879,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 145
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 156
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 155
+			},
+			{
+				"lac": 45005,
+				"cellid": 311,
+				"power": 163
+			},
+			{
+				"lac": 45005,
+				"cellid": 3803,
+				"power": 164
+			}
+		]
+	},
+	{
+		"timestamp": 1611744539.329487,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 148
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 158
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 158
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 10364,
+				"power": 160
+			},
+			{
+				"lac": 45005,
+				"cellid": 3803,
+				"power": 162
+			}
+		]
+	},
+	{
+		"timestamp": 1611744705.834731,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 146
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 156
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 156
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 156
+			},
+			{
+				"lac": 45005,
+				"cellid": 311,
+				"power": 164
+			}
+		]
+	},
+	{
+		"timestamp": 1611744857.370583,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 147
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 159
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 155
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 153
+			},
+			{
+				"lac": 45005,
+				"cellid": 3803,
+				"power": 163
+			}
+		]
+	},
+	{
+		"timestamp": 1611745025.398378,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 145
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 155
+			},
+			{
+				"lac": 45005,
+				"cellid": 2245,
+				"power": 159
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 156
+			},
+			{
+				"lac": 45005,
+				"cellid": 3803,
+				"power": 164
+			},
+			{
+				"lac": 45005,
+				"cellid": 10795,
+				"power": 160
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 157
+			}
+		]
+	},
+	{
+		"timestamp": 1611745186.626644,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 145
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 160
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 156
+			},
+			{
+				"lac": 45005,
+				"cellid": 10795,
+				"power": 160
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 157
+			},
+			{
+				"lac": 45006,
+				"cellid": 591,
+				"power": 163
+			}
+		]
+	},
+	{
+		"timestamp": 1611745341.052997,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 146
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 156
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 154
+			},
+			{
+				"lac": 45005,
+				"cellid": 10795,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 154
+			},
+			{
+				"lac": 45005,
+				"cellid": 3803,
+				"power": 164
+			}
+		]
+	},
+	{
+		"timestamp": 1611745497.124965,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 144
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 10795,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 10364,
+				"power": 159
+			}
+		]
+	},
+	{
+		"timestamp": 1611745661.028992,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 145
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 159
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 161
+			},
+			{
+				"lac": 45005,
+				"cellid": 311,
+				"power": 163
+			},
+			{
+				"lac": 45005,
+				"cellid": 2582,
+				"power": 164
+			}
+		]
+	},
+	{
+		"timestamp": 1611745812.544854,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 148
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 155
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 154
+			},
+			{
+				"lac": 45005,
+				"cellid": 2245,
+				"power": 158
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 155
+			},
+			{
+				"lac": 45005,
+				"cellid": 311,
+				"power": 162
+			},
+			{
+				"lac": 45005,
+				"cellid": 2582,
+				"power": 164
+			}
+		]
+	},
+	{
+		"timestamp": 1611745962.718362,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 147
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 155
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 155
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 2582,
+				"power": 162
+			}
+		]
+	},
+	{
+		"timestamp": 1611746114.801849,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 145
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 159
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 155
+			},
+			{
+				"lac": 45005,
+				"cellid": 2582,
+				"power": 163
+			}
+		]
+	},
+	{
+		"timestamp": 1611746266.430991,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 145
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 155
+			},
+			{
+				"lac": 45005,
+				"cellid": 311,
+				"power": 164
+			},
+			{
+				"lac": 45006,
+				"cellid": 591,
+				"power": 163
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 155
+			}
+		]
+	},
+	{
+		"timestamp": 1611746422.166682,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 143
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 156
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 3803,
+				"power": 164
+			},
+			{
+				"lac": 45000,
+				"cellid": 46632,
+				"power": 162
+			}
+		]
+	},
+	{
+		"timestamp": 1611746591.164954,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 145
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 158
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 154
+			},
+			{
+				"lac": 45000,
+				"cellid": 46632,
+				"power": 163
+			},
+			{
+				"lac": 45005,
+				"cellid": 3803,
+				"power": 163
+			},
+			{
+				"lac": 45005,
+				"cellid": 2582,
+				"power": 163
+			}
+		]
+	},
+	{
+		"timestamp": 1611746760.525757,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 145
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 158
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 158
+			},
+			{
+				"lac": 45000,
+				"cellid": 46632,
+				"power": 163
+			},
+			{
+				"lac": 45005,
+				"cellid": 3803,
+				"power": 164
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 156
+			}
+		]
+	},
+	{
+		"timestamp": 1611746928.992768,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 147
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 1146,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 311,
+				"power": 163
+			},
+			{
+				"lac": 45006,
+				"cellid": 591,
+				"power": 164
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 158
+			}
+		]
+	},
+	{
+		"timestamp": 1611747092.659292,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 146
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 157
+			},
+			{
+				"lac": 45005,
+				"cellid": 2245,
+				"power": 155
+			},
+			{
+				"lac": 45006,
+				"cellid": 591,
+				"power": 164
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 159
+			},
+			{
+				"lac": 45005,
+				"cellid": 3803,
+				"power": 163
+			}
+		]
+	},
+	{
+		"timestamp": 1611747254.052325,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 152
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 162
+			},
+			{
+				"lac": 45005,
+				"cellid": 2245,
+				"power": 161
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 162
+			},
+			{
+				"lac": 45005,
+				"cellid": 311,
+				"power": 164
+			}
+		]
+	},
+	{
+		"timestamp": 1611747418.871222,
+		"mcc": 250,
+		"mnc": 255,
+		"cells": [
+			{
+				"lac": 45005,
+				"cellid": 2241,
+				"power": 146
+			},
+			{
+				"lac": 45005,
+				"cellid": 2583,
+				"power": 159
+			},
+			{
+				"lac": 45005,
+				"cellid": 10365,
+				"power": 156
+			},
+			{
+				"lac": 45005,
+				"cellid": 311,
+				"power": 163
+			},
+			{
+				"lac": 45005,
+				"cellid": 2582,
+				"power": 164
+			}
+		]
+	}
+]

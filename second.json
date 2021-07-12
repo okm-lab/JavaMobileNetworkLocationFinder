@@ -1,0 +1,118 @@
+[
+    {
+        "timestamp": 1611921735.673992,
+        "mcc": 250,
+        "mnc": 255,
+        "cells": [
+            {
+                "lac": 45030,
+                "cellid": 604,
+                "power": 137
+            },
+            {
+                "lac": 45030,
+                "cellid": 13914,
+                "power": 151
+            },
+            {
+                "lac": 45030,
+                "cellid": 601,
+                "power": 145
+            },
+            {
+                "lac": 45030,
+                "cellid": 13916,
+                "power": 151
+            },
+            {
+                "lac": 45030,
+                "cellid": 13915,
+                "power": 141
+            },
+            {
+                "lac": 45030,
+                "cellid": 2572,
+                "power": 153
+            }
+        ]
+    },
+    {
+        "timestamp": 1611921894.11477,
+        "mcc": 250,
+        "mnc": 255,
+        "cells": [
+            {
+                "lac": 45030,
+                "cellid": 604,
+                "power": 137
+            },
+            {
+                "lac": 45030,
+                "cellid": 13914,
+                "power": 158
+            },
+            {
+                "lac": 45030,
+                "cellid": 601,
+                "power": 142
+            },
+            {
+                "lac": 45030,
+                "cellid": 13916,
+                "power": 154
+            },
+            {
+                "lac": 45030,
+                "cellid": 13915,
+                "power": 142
+            },
+            {
+                "lac": 45030,
+                "cellid": 603,
+                "power": 155
+            },
+            {
+                "lac": 45030,
+                "cellid": 2572,
+                "power": 148
+            }
+        ]
+    },
+    {
+        "timestamp": 1611922052.471529,
+        "mcc": 250,
+        "mnc": 255,
+        "cells": [
+            {
+                "lac": 45030,
+                "cellid": 604,
+                "power": 139
+            },
+            {
+                "lac": 45030,
+                "cellid": 13914,
+                "power": 156
+            },
+            {
+                "lac": 45030,
+                "cellid": 601,
+                "power": 140
+            },
+            {
+                "lac": 45030,
+                "cellid": 13916,
+                "power": 157
+            },
+            {
+                "lac": 45030,
+                "cellid": 13915,
+                "power": 144
+            },
+            {
+                "lac": 45030,
+                "cellid": 4853,
+                "power": 147
+            }
+        ]
+    }
+]
